@@ -9,7 +9,7 @@ sudo chown -R ubuntu:ubuntu /var/www/html
 
 cat << EOM > /var/www/html/index.html
 <html>
-  <head><title>Howl!!!</title></head>
+  <head><title>Howlxxxxxxxxxxxxxxxxxxxx!!!</title></head>
   <body>
   <div style="width:800px;margin: 0 auto">
 
